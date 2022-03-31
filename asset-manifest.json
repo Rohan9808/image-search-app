@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/image-search-app/static/css/main.108990f5.css",
+    "main.js": "/image-search-app/static/js/main.3d1828ff.js",
+    "static/js/358.cffcdd9c.chunk.js": "/image-search-app/static/js/358.cffcdd9c.chunk.js",
+    "static/js/787.32109f07.chunk.js": "/image-search-app/static/js/787.32109f07.chunk.js",
+    "index.html": "/image-search-app/index.html",
+    "main.108990f5.css.map": "/image-search-app/static/css/main.108990f5.css.map",
+    "main.3d1828ff.js.map": "/image-search-app/static/js/main.3d1828ff.js.map",
+    "358.cffcdd9c.chunk.js.map": "/image-search-app/static/js/358.cffcdd9c.chunk.js.map",
+    "787.32109f07.chunk.js.map": "/image-search-app/static/js/787.32109f07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.108990f5.css",
+    "static/js/main.3d1828ff.js"
+  ]
+}
