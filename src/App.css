@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    color: blue;
+    font-weight: 700;
+    margin: 2%;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.image {
+    height: 400px;
+    width: 20%;
+    margin: 10px;
+}
+
+.center {
+    justify-content: center;
+}
+
+.spinnerClass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
